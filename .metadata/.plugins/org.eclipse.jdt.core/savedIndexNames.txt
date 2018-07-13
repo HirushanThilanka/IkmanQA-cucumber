@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Asus\eclipse-workspace\testing\cucamber\IkmanQA-cucumber\.metadata\.plugins\org.eclipse.jdt.core
